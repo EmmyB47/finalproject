@@ -48,5 +48,5 @@
 
 # 7 - 
 
-# GitHub Repo: 
+# GitHub Repo: https://github.com/EmmyB47/finalproject.git
 
