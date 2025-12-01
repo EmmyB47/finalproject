@@ -4,7 +4,7 @@ import os
 
 app = Flask(__name__, template_folder="../templates")
 
-DATA_PATH = os.getenv("DATA_PATH", "data/broadway.csv")
+DATA_PATH = os.getenv("DATA_PATH", "assets/broadway.csv")
 
 df = pd.read_csv(DATA_PATH)
 
